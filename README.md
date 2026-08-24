@@ -7,6 +7,6 @@ First Rule (Selection Rule): User selects from 4 genres and is then given a cata
 Second Rule (Preference Rule): System gives Recommendations based on similar genre/s of the selected manga
 
 How to run:
-> Open File in VScode/Codespace
-> Download Python
-> Open Terminal and run py Manganexo.py
+- Open File in VScode/Codespace
+- Download Python
+- Open Terminal and run py Manganexo.py
